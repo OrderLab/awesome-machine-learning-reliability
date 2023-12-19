@@ -35,6 +35,14 @@ TODO:
 - [Oracle Issues in Machine Learning and Where to Find Them](https://dl.acm.org/doi/10.1145/3387940.3391490), *ICSEW 2020* - An introduction to machine learning oracles (i.e. the labels of validation and test data) and how to detect issues within them using *Shannon Entropy* and *Semantic Analysis*. [Review](reviews/Oracle-Issues-in-Machine-Learning-and-Where-to-Find-Them.md)
 - [CRADLE: Cross-Backend Validation to Detect and Localize Bugs in Deep Learning Libraries](https://www.cs.purdue.edu/homes/lintan/publications/cradle-icse19.pdf), *ICSE 2019* - Using **differential testing** to find bugs in different libraries' implementations of the same deep learning utilities.
 
+- [AutoTrainer: An Automatic DNN Training Problem Detection and Repair System](https://dl.acm.org/doi/10.1109/ICSE43902.2021.00043), *ICSE 2021*
+
+- [Reliability Assurance for Deep Neural Network Architectures against Numerical Defects](https://dl.acm.org/doi/abs/10.1109/ICSE48619.2023.00156), *ICSE 2023*
+
+## Monitoring
+
+- [Self-Checking Deep Neural Networks in Deployment](https://dl.acm.org/doi/abs/10.1109/ICSE43902.2021.00044), *ICSE 2022*
+
 ## ML Bug Debugging
 
 - [Debugging Machine Learning Pipelines](https://dl.acm.org/doi/10.1145/3329486.3329489), *DEEM 2019* - Localizing root causes of ML performance anomalies in (i.e. hyperparameter, software version, data, etc.) with **decision trees** and existing runs of the same pipeline. [Review](reviews/Debugging-Machine-Learning-Pipelines.md)
