@@ -18,10 +18,12 @@ TODO:
 
 ## High-Level View
 
+- [Machine Learning Testing: Survey, Landscapes and Horizons](https://arxiv.org/pdf/1906.10742.pdf), *TSE 2022* - TODO: Add summary
 - [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf), *NeurIps 2015* - A seminal paper on the hidden technical debt in machine learning systems.
 
 ## Empirical Studies on Machine Learning Bugs & Challenges
 
+- [Taxonomy of Real Faults in Deep Learning Systems](https://arxiv.org/abs/1910.11015), *ICSE'19* - TODO: Add summary
 - [A comprehensive empirical study on bug characteristics of deep learning frameworks](https://linkinghub.elsevier.com/retrieve/pii/S0950584922001306), *Information and Software Technology 2021* - TODO: Add summary.
 - [An Empirical Study on Program Failures of Deep Learning Jobs](https://dl.acm.org/doi/10.1145/3377811.3380362), *ICSE 2020* - An empirical study on **failure characteristics** of industry deep learning jobs from Microsoft. The study focuses on **job failures** that throw explicit exceptions.
 - [An Empirical Study of Common Challenges in Developing Deep Learning Applications](https://ieeexplore.ieee.org/document/8987482), *IEEE Software 2020* - An empirical study on **challenges** in developing correct and accurate deep learning applications. It categorizes the types of issues and investigates the difficulty of debugging them.
