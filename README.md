@@ -18,7 +18,7 @@ TODO:
 
 ## High-Level View
 
-- [Machine Learning Testing: Survey, Landscapes and Horizons](https://arxiv.org/pdf/1906.10742.pdf), *TSE 2022* - TODO: Add summary
+- [Machine Learning Testing: Survey, Landscapes and Horizons](https://arxiv.org/pdf/1906.10742.pdf), *TSE'20* - TODO: Add summary
 - [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf), *NeurIps 2015* - A seminal paper on the hidden technical debt in machine learning systems.
 
 ## Empirical Studies on Machine Learning Bugs & Challenges
