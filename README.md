@@ -1,16 +1,5 @@
 # Awesome Machine Learning Reliability
 
-A curated list of awesome machine learning reliability resources.
-
-## TODOs
-
-- [ ] Add more papers, blogs, and presentations.
-- [ ] Try to provide a short summary for each paper. Copy my reviews to this repo.
-
-## Table of Contents
-
-TODO:
-
 ## Background
 
 - [MLSys: The New Frontier of Machine Learning Systems](https://arxiv.org/pdf/1904.03257.pdf) - The white paper that you must read.
@@ -18,13 +7,14 @@ TODO:
 
 ## High-Level View
 
-- [Machine Learning Testing: Survey, Landscapes and Horizons](https://arxiv.org/pdf/1906.10742.pdf), *TSE'20* - TODO: Add summary
+- [Machine Learning Testing: Survey, Landscapes and Horizons](https://arxiv.org/pdf/1906.10742.pdf), *TSE'20*
 - [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf), *NeurIps 2015* - A seminal paper on the hidden technical debt in machine learning systems.
 
 ## Empirical Studies on Machine Learning Bugs & Challenges
 
-- [Taxonomy of Real Faults in Deep Learning Systems](https://arxiv.org/abs/1910.11015), *ICSE'19* - TODO: Add summary
-- [A comprehensive empirical study on bug characteristics of deep learning frameworks](https://linkinghub.elsevier.com/retrieve/pii/S0950584922001306), *Information and Software Technology 2021* - TODO: Add summary.
+- [Characterization of Large Language Model Development in the Datacenter](https://arxiv.org/abs/2403.07648), *NSDI'24* - An empirical study of LLM-specific workloads in Shanghai AI Lab's cluster. [Review](./reviews/Characterization%20of%20Large%20Language%20Model%20Development%20in%20the%20Datacenter.md) 
+- [Taxonomy of Real Faults in Deep Learning Systems](https://arxiv.org/abs/1910.11015), *ICSE'19*
+- [A comprehensive empirical study on bug characteristics of deep learning frameworks](https://linkinghub.elsevier.com/retrieve/pii/S0950584922001306), *Information and Software Technology 2021*
 - [An Empirical Study on Program Failures of Deep Learning Jobs](https://dl.acm.org/doi/10.1145/3377811.3380362), *ICSE 2020* - An empirical study on **failure characteristics** of industry deep learning jobs from Microsoft. The study focuses on **job failures** that throw explicit exceptions.
 - [An Empirical Study of Common Challenges in Developing Deep Learning Applications](https://ieeexplore.ieee.org/document/8987482), *IEEE Software 2020* - An empirical study on **challenges** in developing correct and accurate deep learning applications. It categorizes the types of issues and investigates the difficulty of debugging them.
 - [Characterization of Large Language Model Development in the Datacenter](https://arxiv.org/abs/2403.07648) - A study on systems need & challenges for large model OPs in real world datacenters.
@@ -56,8 +46,3 @@ TODO:
 
 - [Debugging Machine Learning Pipelines](https://dl.acm.org/doi/10.1145/3329486.3329489), *DEEM 2019* - Localizing root causes of ML performance anomalies in (i.e. hyperparameter, software version, data, etc.) with **decision trees** and existing runs of the same pipeline. [Review](reviews/Debugging-Machine-Learning-Pipelines.md)
 - [Emerging Platforms Meet Emerging LLMs: A Year-Long Journey of Top-Down Development](http://arxiv.org/abs/2404.09151)
-
-## TODO:
-
-- Beyond Accuracy: Behavioral Testing of NLP Models with CheckList
-- add more papers from zotero
