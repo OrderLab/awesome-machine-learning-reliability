@@ -22,8 +22,6 @@
 - [An Empirical Study of Common Challenges in Developing Deep Learning Applications](https://ieeexplore.ieee.org/document/8987482), *IEEE Software 2020* – An empirical study on **challenges** in developing correct and accurate deep learning applications. It categorizes the types of issues and investigates the difficulty of debugging them.
 - [Taxonomy of Real Faults in Deep Learning Systems](https://arxiv.org/abs/1910.11015), *ICSE'19*
 
----
-
 ## Silent Errors
 
 ### Empirical Studies
@@ -34,9 +32,17 @@
 - [Training with Confidence: Catching Silent Errors in Deep Learning Training with Automated Proactive Checks](https://www.arxiv.org/abs/2506.14813), *OSDI 2025* – Introduces TrainCheck, a proactive runtime monitoring framework that automatically infers and checks training invariants to detect silent correctness errors in DL training pipelines.
 - [XPUTIMER: Anomaly Diagnostics for Divergent LLM Training in GPU Clusters of Thousand-Plus Scale](https://arxiv.org/pdf/2502.05413), *2025* - Introduces XPUTIMER, a real-time anomaly diagnostic framework tailored for distributed large language model (LLM) training in extensive GPU clusters
 
+
 ## Distributed Training
 
+- [TrainVerify: Equivalence-Based Verification for Distributed LLM Training](https://www.arxiv.org/abs/2506.15961), *SOSP 2025*
 - [TTrace: Lightweight Error Checking and Diagnosis for Distributed Training](https://arxiv.org/abs/2506.09280), *2025*
+
+## Diagnosis
+- [PerfTracker: Online Performance Troubleshooting for Large-scale Model Training in Production](https://arxiv.org/abs/2506.08528), *2025* - Performance troubleshooting system from Alibaba Cloud.
+- [Emerging Platforms Meet Emerging LLMs: A Year-Long Journey of Top-Down Development](http://arxiv.org/abs/2404.09151), *2024*
+- [Debugging Machine Learning Pipelines](https://dl.acm.org/doi/10.1145/3329486.3329489), *DEEM 2019* – Localizing root causes of ML performance anomalies in (i.e. hyperparameter, software version, data, etc.) with **decision trees** and existing runs of the same pipeline. [Review](reviews/Debugging-Machine-Learning-Pipelines.md)
+
 
 ## Code Bug Testing
 
@@ -62,10 +68,6 @@
 - [DeepXplore: Automated Whitebox Testing of Deep Learning Systems](https://dl.acm.org/doi/10.1145/3132747.3132785), *SOSP 2017* (Best paper award) – Introduces **Neuron Coverage** to guide input generation and **Differential Testing** to detect bugs across autonomous driving systems.
 - [Oracle Issues in Machine Learning and Where to Find Them](https://dl.acm.org/doi/10.1145/3387940.3391490), *ICSEW 2020* – An introduction to machine learning oracles (i.e. the labels of validation and test data) and how to detect issues within them using *Shannon Entropy* and *Semantic Analysis*. [Review](reviews/Oracle-Issues-in-Machine-Learning-and-Where-to-Find-Them.md)
 
-## Debugging
-
-- [Debugging Machine Learning Pipelines](https://dl.acm.org/doi/10.1145/3329486.3329489), *DEEM 2019* – Localizing root causes of ML performance anomalies in (i.e. hyperparameter, software version, data, etc.) with **decision trees** and existing runs of the same pipeline. [Review](reviews/Debugging-Machine-Learning-Pipelines.md)
-- [Emerging Platforms Meet Emerging LLMs: A Year-Long Journey of Top-Down Development](http://arxiv.org/abs/2404.09151)
 
 
 <!-- 
