@@ -68,7 +68,8 @@
 - [DeepXplore: Automated Whitebox Testing of Deep Learning Systems](https://dl.acm.org/doi/10.1145/3132747.3132785), *SOSP 2017* (Best paper award) – Introduces **Neuron Coverage** to guide input generation and **Differential Testing** to detect bugs across autonomous driving systems.
 - [Oracle Issues in Machine Learning and Where to Find Them](https://dl.acm.org/doi/10.1145/3387940.3391490), *ICSEW 2020* – An introduction to machine learning oracles (i.e. the labels of validation and test data) and how to detect issues within them using *Shannon Entropy* and *Semantic Analysis*. [Review](reviews/Oracle-Issues-in-Machine-Learning-and-Where-to-Find-Them.md)
 
-
+## Fault Injection Tools:
+- [NVBitFI: Dynamic Fault Injection for GPUs](https://ieeexplore.ieee.org/abstract/document/9505068), *DSN 2021*
 
 <!-- 
 TBD:
