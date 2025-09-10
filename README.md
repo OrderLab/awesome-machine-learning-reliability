@@ -11,7 +11,7 @@
 - [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf), *NeurIps 2015* – A seminal paper on the hidden technical debt in machine learning systems.
 
 ## Empirical Studies
-
+- [A First Look at Bugs in LLM Inference Engines](https://www.arxiv.org/abs/2506.09713), *2025*
 - [Towards Understanding Bugs in Distributed Training and Inference Frameworks for Large Language Models](https://arxiv.org/pdf/2506.10426), *2025*
 - [Characterization of Large Language Model Development in the Datacenter](https://arxiv.org/abs/2403.07648), *NSDI'24* – An empirical study of LLM-specific workloads in Shanghai AI Lab's cluster. [Review](./reviews/Characterization%20of%20Large%20Language%20Model%20Development%20in%20the%20Datacenter.md)
 - [An Empirical Study on Low GPU Utilization of Deep Learning Jobs](https://dl.acm.org/doi/10.1145/3597503.3639232) *ICSE 2024*
