@@ -14,6 +14,7 @@
 - [Monitoring](#monitoring)
 - [Model Behavior Testing](#model-behavior-testing)
 - [Fault Injection Tools](#fault-injection-tools)
+- [Industry Post Mortems](#industry-post-mortems)
 
 ## Background
 
@@ -84,6 +85,9 @@
 
 ## Fault Injection Tools
 - [NVBitFI: Dynamic Fault Injection for GPUs](https://ieeexplore.ieee.org/abstract/document/9505068), *DSN 2021* [Kernels] — Injects faults into GPU binaries to evaluate resilience and error propagation in DL workloads.
+
+## Industry Post Mortems
+- [Anthropic: A Postmortem of Three Recent Issues](https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues) — Lessons and mitigations drawn from consecutive reliability incidents in Claude models during Aug 2025.
 
 <!-- 
 TBD:
